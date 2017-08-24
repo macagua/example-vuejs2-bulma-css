@@ -1,6 +1,6 @@
 # vuejs2-bulma-css
 
-> A Vue.js project that integrates the Bulma CSS Framework following the Build your First Vue.js App | Vue.js 2.0 Tutorial](https://coursetro.com/posts/code/71/Build-your-First-Vue.js-App-%7C-Vue.js-2.0-Tutorial).
+> A Vue.js project that integrates the Bulma CSS Framework following the [Build your First Vue.js App | Vue.js 2.0 Tutorial](https://coursetro.com/posts/code/71/Build-your-First-Vue.js-App-%7C-Vue.js-2.0-Tutorial).
 
 ## Build Setup
 
